@@ -19,7 +19,9 @@
         <hr>
         <div class="editor uk-align-center">
             <textarea name="content"></textarea>
-            <div id="editor"></div>
+            <div id="editor">
+                <p>This is some sample content.</p>
+            </div>
         </div>
         <input type="submit" value="Submit" class="uk-button uk-button-default uk-width-1-1">
     </form>
